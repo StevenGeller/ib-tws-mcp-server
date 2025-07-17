@@ -1,0 +1,33 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+*.tgz
+
+# Test files
+test-*.ts
+test-*.js
+
+# Build files
+*.js.map
+*.d.ts.map
+
+# OS files
+Thumbs.db
+
+# Editor directories
+.sublime-*
+.atom/
+*.code-workspace
